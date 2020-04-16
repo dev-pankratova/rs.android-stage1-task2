@@ -13,8 +13,8 @@ class Fibonacci {
         var a = 0
         var b = 1
         var c = 0
-        var myN: Int = 0
-        var myN2: Int = 0
+        var myN = 0
+        var myN2 = 0
 
         //first way
         do {
